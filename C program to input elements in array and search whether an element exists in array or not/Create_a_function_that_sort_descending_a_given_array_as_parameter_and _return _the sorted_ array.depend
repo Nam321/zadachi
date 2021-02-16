@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613142327 source:c:\users\nam-pc\desktop\create_a_function_that_sort_descending_a_given_array_as_parameter_and _return _the sorted_ array\main.c
+	<stdio.h>
+	<stdlib.h>
+
