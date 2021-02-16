@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612287367 source:c:\users\nam-pc\desktop\sum_of_elements _of_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

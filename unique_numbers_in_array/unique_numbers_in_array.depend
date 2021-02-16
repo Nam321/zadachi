@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612459142 source:c:\users\nam-pc\desktop\unique_numbers_in_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

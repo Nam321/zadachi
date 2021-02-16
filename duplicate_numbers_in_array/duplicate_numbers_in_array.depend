@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612453555 source:c:\users\nam-pc\desktop\duplicate_numbers_in_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
